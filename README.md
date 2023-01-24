@@ -26,7 +26,7 @@ Foram 5 dias de aula, totalizando um pouco mais de 10 horas de vídeo, desenvolv
   <img alt="photo" src=".github/desktop1.PNG" width="100%">
 </p>
 <p align="center">
-  <img alt="photo" src=".github/mobile.PNG" width="100%">
+  <img alt="photo" src=".github/mobile.PNG" width="50%">
 </p>
 
 ## 🚀 Tecnologias
@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   * __Radix__ 
   * __dayjs__ para formatar datas.
   * __Axios__ para acessar a API.
-* Front-end
+* Mobile
   * __React Native__
   * __Expo__
   * __Nativewind__
